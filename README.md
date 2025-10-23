@@ -34,48 +34,16 @@ Pytorch
 
 ### 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yongminkim0501&show_icons=true&theme=radical)
 
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blueviolet)
+![Profile Views](https://komarev.com/ghpvc/?username=yongminkim0501&color=blueviolet)
 
 </div>
 
 ---
 
-<details>
-<summary>🎨 More ASCII Art Styles (Click to expand)</summary>
-
 <br>
 
-### Style 1: Slant
-```
-    ____  ___________   ______
-   / __ \/ ____/__  /  / ____/
-  / /_/ / __/    / /  / __/   
- / _, _/ /___   / /__/ /___   
-/_/ |_/_____/  /____/_____/   
-```
-
-### Style 2: Big
-```
- _____  ______ ____________ 
-|  __ \|  ____|___  /  ____|
-| |__) | |__     / /| |__   
-|  _  /|  __|   / / |  __|  
-| | \ \| |____ / /__| |____ 
-|_|  \_\______/_____|______|
-```
-
-### Style 3: Banner
-```
-######  ####### ####### ####### 
-#     # #            #  #       
-#     # #           #   #       
-######  #####      #    #####   
-#   #   #         #     #       
-#    #  #        #      #       
-#     # ####### ####### ####### 
-```
 
 </details>
 
@@ -83,6 +51,6 @@ Pytorch
 
 <div align="center">
 
-⭐️ From [yourusername](https://github.com/yourusername)
+⭐️ From [yongminkim0501](https://github.com/yongminkim0501)
 
 </div>
