@@ -44,13 +44,3 @@ Pytorch
 
 <br>
 
-
-</details>
-
----
-
-<div align="center">
-
-⭐️ From [yongminkim0501](https://github.com/yongminkim0501)
-
-</div>
