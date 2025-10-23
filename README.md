@@ -21,13 +21,15 @@
 ```
 FastAPI
 Pytorch
+MySQL
+AWS
 ```
 
 ## 📫 Contact
 
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)](https://github.com/yongminkim0501)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:yongmingim166@gmail.com)
-[![Tistory](https://img.shields.io/badge/-Tistory-FF5722?style=flat-square&logo=blogger&logoColor=white)][(https://yourblog.tistory.com](https://yonggrizzly.tistory.com/))
+[![Tistory](https://img.shields.io/badge/-Tistory-FF5722?style=flat-square&logo=blogger&logoColor=white)](https://yourblog.tistory.com)
 ---
 
 <div align="center">
