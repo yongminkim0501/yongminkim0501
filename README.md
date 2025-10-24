@@ -33,6 +33,7 @@
 <div align="center">
 
 ### 📊 GitHub Stats
+[![minseon yu's GitHub stats](https://github-readme-stats.vercel.app/api?username=yongminkim0501)](https://github.com/yongminkim0501/github-readme-stats)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yongminkim0501&show_icons=true&theme=radical)
 
