@@ -34,12 +34,5 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=yongminkim0501&color=blueviolet)
 
-</div>
-<div align="center">
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wmm000501)](https://solved.ac/wmm000501/)
-
-</div>
-
 <br>
 
