@@ -29,7 +29,7 @@
 <div align="center">
 
 ### 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yongminkim0501&show_icons=true)
+![GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=yongminkim0501&show_icons=true&theme=radical)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=yongminkim0501&color=blueviolet)
 
