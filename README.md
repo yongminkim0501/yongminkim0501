@@ -1,13 +1,12 @@
 
 ---
-## 프로그래머스 뱃지
-![Programmers Badge](https://api.programmers-badge.jh8459.com/badge/bb56b6bbc206.svg)
-
-
 ## 🚀 About Me
 
 - 💻 Software Developer (Backend)
 - 📚 Always Learning
+
+## 코테 준비
+![Programmers Badge](https://api.programmers-badge.jh8459.com/badge/bb56b6bbc206.svg)
 
 ## 🛠️ Tech Stack
 
