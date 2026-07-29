@@ -1,9 +1,8 @@
 
 ---
-## 🚀 About Me
+## About Me
 
-- 💻 Software Developer (Backend)
-- 📚 Always Learning
+- Software Developer (Backend)
 
 ## 코테 준비
 ![Programmers Badge](https://api.programmers-badge.jh8459.com/badge/bb56b6bbc206.svg)
