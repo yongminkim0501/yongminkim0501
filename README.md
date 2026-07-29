@@ -5,7 +5,7 @@
 - Software Developer (Backend)
 
 ## 달성
-**캡스톤 졸업 프로젝트** : 문서 요약 서비스 개발 과정에서 아키텍처 구조 변경을 통하여 **토큰량 97% 감소** (0.01$ -> 0.003$) / (**Sonnet 4.5, 논문 PDF 2편과 양식 PDF 1편 기준**)
+**문서 요약 기능** : 개발 과정에서 아키텍처 구조 변경을 통하여 **토큰량 97% 감소** (0.01$ -> 0.003$) / (**Sonnet 4.5, 논문 PDF 2편과 양식 PDF 1편 기준**)
 
 ## 코테 준비
 ![Programmers Badge](https://api.programmers-badge.jh8459.com/badge/bb56b6bbc206.svg)
