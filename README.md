@@ -1,10 +1,8 @@
 ## 요즘 좋아하는 노래 
-#### In My Loition - [리센느]
-<iframe width="560" height="315"
-src="https://www.youtube.com/embed/rm3yX5-vusA"
-title="YouTube video player" frameborder="0"
-allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-allowfullscreen></iframe>
+**In My Loition - [리센느]**
+
+[![In My Loition](https://img.youtube.com/vi/rm3yX5-vusA/maxresdefault.jpg)](https://www.youtube.com/watch?v=rm3yX5-vusA)
+
 ---
 ## Me
 
