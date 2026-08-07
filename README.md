@@ -1,7 +1,9 @@
 ## 요즘 좋아하는 노래 
 **In My Loition - [리센느]**
 
-[![In My Loition](https://img.youtube.com/vi/rm3yX5-vusA/maxresdefault.jpg)](https://www.youtube.com/watch?v=rm3yX5-vusA)
+<a href="https://www.youtube.com/watch?v=rm3yX5-vusA">
+  <img src="https://img.youtube.com/vi/rm3yX5-vusA/hqdefault.jpg" width="400">
+</a>
 
 ---
 ## Me
