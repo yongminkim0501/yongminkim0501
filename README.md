@@ -1,9 +1,3 @@
-## 요즘 좋아하는 노래 
-
-| 🎵 On Repeat | Artist | Listen |
-| :--- | :--- | :---: |
-| **In My Lotion** | 리센느 (RESCENE) | [<img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white" height="20">](https://www.youtube.com/watch?v=rm3yX5-vusA) |
-
 ---
 ## 경험
 
