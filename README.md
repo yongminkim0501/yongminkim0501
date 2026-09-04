@@ -71,3 +71,18 @@
 [![Repo](https://img.shields.io/badge/GitHub-codex--plugin-181717?style=flat-square&logo=github)](https://github.com/yongminkim0501/AX-mediterapy-codex-plugin)
 ![Award](https://img.shields.io/badge/📝-예비후보작-607D8B?style=flat-square)
 
+### Krafton-Jungle 미니 프로젝트 - JungleGym (2026.08.24 - 27)
+
+> 정글 헬스장의 인원 수 현황과 개인 오운완 등의 정보를 기록 관리할 수 있는 서비스 - (백엔드)
+
+[![Repo](https://img.shields.io/badge/GitHub-JUNGLEGYM-181717?style=flat-square&logo=github)](https://github.com/yongminkim0501/JungleGym)
+![Award](https://img.shields.io/badge/📌-미니프로젝트-607D8B?style=flat-square)
+
+### Spring | FastAPI Gateway 성능, 부하 테스트 수치화 프로젝트 (진행 중)
+
+> 게이트웨이의 스레드 모델이 꼬리 지연(P99)에 만드는 차이를 수치로 확인 - (개인 사이드 프로젝트)
+
+[![Repo](https://img.shields.io/badge/GitHub-Spring--gateway-181717?style=flat-square&logo=github)](https://github.com/yongminkim0501/spring-load-la)
+![Award](https://img.shields.io/badge/🛠️-사이드프로젝트-607D8B?style=flat-square)
+
+
