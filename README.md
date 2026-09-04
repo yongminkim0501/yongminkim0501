@@ -1,7 +1,9 @@
 ## 경험
-
 - 한양대학교 ERICA 컴퓨터학부 졸업
 - 크래프톤 정글 SW-AI랩 13기 (26.08.24 ~ 27.01.28)
+
+## 수상
+- ERICA 소프트웨어융합대학 캡스톤디자인 경진대회 우수상 (3위) - 팀장
 
 ## 개선 달성
 **문서 요약 기능(캡스톤 프로젝트)** : 개발 과정에서 아키텍처 구조 변경을 통하여 **토큰량 70% 감소** (0.01$ -> 0.003$) / (**Sonnet 4.5, 논문 PDF 2편과 양식 PDF 1편 기준**)
@@ -42,11 +44,6 @@
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:yongmingim166@gmail.com)
 [![Velog](https://img.shields.io/badge/-Velog-20C997?style=flat-square&logo=velog&logoColor=white)](https://velog.io/@yongmin05/posts)
 
-## 📫 Contact
-
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)](https://github.com/yongminkim0501)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:yongmingim166@gmail.com)
-[![Velog](https://img.shields.io/badge/-Tistory-FF5722?style=flat-square&logo=blogger&logoColor=white)](https://velog.io/@yongmin05/posts)
 ---
 
 <div align="center">
@@ -58,3 +55,9 @@
 
 <br>
 
+### Project
+
+[우수상], [소프트웨어캡스톤디자인] (2026.06)
+팀 이름 : SHOW-GY
+플젝 내용 : AI 기반 업무 문서 요약 및 편집 시스템 (챗봇 에이전트)
+[![Repo](https://img.shields.io/badge/GitHub-SHOW--GY-181717?style=flat-square&logo=github)](https://github.com/yongminkim0501/SHOW-GY)
