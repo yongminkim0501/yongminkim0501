@@ -57,7 +57,9 @@
 
 ### Project
 
-[우수상], [소프트웨어캡스톤디자인] (2026.06)
-팀 이름 : SHOW-GY
-플젝 내용 : AI 기반 업무 문서 요약 및 편집 시스템 (챗봇 에이전트)
+### SHOW-GY · AI 기반 업무 문서 요약 및 편집 시스템
+
+> 소프트웨어캡스톤디자인 (2026.06) — 팀 SHOW-GY
+
 [![Repo](https://img.shields.io/badge/GitHub-SHOW--GY-181717?style=flat-square&logo=github)](https://github.com/yongminkim0501/SHOW-GY)
+![Award](https://img.shields.io/badge/🏆-우수상-FFB300?style=flat-square)
