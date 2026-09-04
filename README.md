@@ -59,7 +59,15 @@
 
 ### SHOW-GY · AI 기반 업무 문서 요약 및 편집 시스템
 
-> 소프트웨어캡스톤디자인 (2026.06) — 팀 SHOW-GY
+> 소프트웨어캡스톤디자인 (2026.06) — 팀 SHOW-GY (팀장)
 
 [![Repo](https://img.shields.io/badge/GitHub-SHOW--GY-181717?style=flat-square&logo=github)](https://github.com/yongminkim0501/SHOW-GY)
 ![Award](https://img.shields.io/badge/🏆-우수상-FFB300?style=flat-square)
+
+### 조코딩 AX 인재전쟁 - 메디테라피 예비 후보작
+
+> Z3 Solver 기반 기획 충돌 탐지 Codex 플러그인 (2026.07) — (개인팀)
+
+[![Repo](https://img.shields.io/badge/GitHub-codex--plugin-181717?style=flat-square&logo=github)](https://github.com/yongminkim0501/AX-mediterapy-codex-plugin)
+![Award](https://img.shields.io/badge/📝-예비후보작-607D8B?style=flat-square)
+
