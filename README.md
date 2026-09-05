@@ -111,7 +111,7 @@
 
 ### Krafton-Jungle 미니 프로젝트 - JungleGym (2026.08.24 - 27)
 
-> 정글 헬스장의 인원 수 현황과 개인 오운완 등의 정보를 기록 관리할 수 있는 서비스 - (백엔드)
+> 정글 헬스장의 인원 수 현황과 개인 오운완 등의 정보를 기록 관리할 수 있는 서비스 - (백엔드) -> 현재 마이그레이션 진행 중
 
 [![Repo](https://img.shields.io/badge/GitHub-JUNGLEGYM-181717?style=flat-square&logo=github)](https://github.com/yongminkim0501/JungleGym)
 ![Award](https://img.shields.io/badge/📌-미니프로젝트-607D8B?style=flat-square)
