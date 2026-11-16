@@ -36,8 +36,6 @@
 
 <div align="center">
 
-<h2>🛠️ Tech Stack</h2>
-
 <h3>⚙️ Backend</h3>
 
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
